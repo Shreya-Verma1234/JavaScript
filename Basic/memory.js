@@ -19,6 +19,10 @@ let emp2=emp;
 emp2.name="Shreya";
 console.log(emp.name);
 console.log(emp2.name);
+//2nd way to access from object
+let{address}=emp;
+console.log(address);
+
 
 
 
