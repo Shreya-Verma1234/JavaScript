@@ -1,18 +1,17 @@
-/*let marks=Symbol("mark")// always define symbol 
+console.log(typeof(obj.name));
+console.log(typeof(obj.age));
+let obj2={
+    fullName:{
+        userName:"Shreya",
+        lastName:"Verma"
+    }}/*let marks=Symbol("mark")// always define symbol 
 let obj={
     name:"Shreya",
     age:21,
    [marks]:89
 };
 console.log(obj[marks]);// this is how object of symbol called
-console.log(typeof(obj.name));
-console.log(typeof(obj.age))
-*/
-let obj2={
-    fullName:{
-        userName:"Shreya",
-        lastName:"Verma"
-    }
+co
 }
 // console.log(obj2.fullName);
 // console.log(obj2.fullName.userName);
@@ -33,6 +32,7 @@ let user=[
 // console.log(Object.values(user));
 let {age}=user
 console.log(age);
+*/
 
 
 
